@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"H:/Libraries/MaterialsAndTexturesLibrary/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"H:/Tests/MaterialsAndCPPTests/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"H:/Tests/MaterialsAndCPPTests/Content/MaterialTests/M_NoiseTests.uasset",
 				"H:/Tests/MaterialsAndCPPTests/Content/MaterialTests/M_NoiseTests_Inst.uasset",
