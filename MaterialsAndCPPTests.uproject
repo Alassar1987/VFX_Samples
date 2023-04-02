@@ -18,6 +18,10 @@
 		{
 			"Name": "CommonConversation",
 			"Enabled": true
+		},
+		{
+			"Name": "NiagaraFluids",
+			"Enabled": true
 		}
 	]
 }
