@@ -2473,12 +2473,3 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.04.02-02.51.19:050][256]LogContentBrowser: Renaming the item being created (Deferred Item: M_FlameAnimated_NoiseBasedTest4).
 [2023.04.02-02.51.34:683][742]LogContentBrowser: Attempting asset rename: M_FlameAnimated_NoiseBasedTest4 -> M_SmokeAnimated_NoiseBased
 [2023.04.02-02.51.34:983][742]LogFileHelpers: InternalPromptForCheckoutAndSave started...
-[2023.04.02-02.51.37:146][742]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s, reporting...
-[2023.04.02-02.51.38:513][742]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' report submitted, and took 0.049967s
-[2023.04.02-02.51.43:935][742]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.003056s (5.466712s overbudget)
-[2023.04.02-02.51.44:001][742]LogSavePackage: Moving output files for package: /Game/MaterialTests/Materials/M_SmokeAnimated_NoiseBased
-[2023.04.02-02.51.44:001][742]LogSavePackage: Moving 'H:/Libraries/MaterialsAndTexturesLibrary/Saved/M_SmokeAnimated_NoiseBasedBD080D104A986FBE34965F8DA2CFD7A5.tmp' to 'H:/Libraries/MaterialsAndTexturesLibrary/Content/MaterialTests/Materials/M_SmokeAnimated_NoiseBased.uasset'
-[2023.04.02-02.51.44:221][742]LogFileHelpers: InternalPromptForCheckoutAndSave took 9.23 sec (total: 11.2 sec)
-[2023.04.02-02.51.44:490][742]LogContentBrowser: End creating deferred item M_FlameAnimated_NoiseBasedTest4
-[2023.04.02-02.51.44:500][742]AssetCheck: New page: Asset Save: M_SmokeAnimated_NoiseBased
-[2023.04.02-02.51.44:500][742]LogContentValidation: Display: Validating /Script/Engine.Material /Game/MaterialTests/Materials/M_SmokeAnimated_NoiseBased.M_SmokeAnimated_NoiseBased
